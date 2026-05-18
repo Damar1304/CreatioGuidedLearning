@@ -1,11 +1,11 @@
 {
   "Name": "yacht",
-  "Description": "",
+  "Description": "trafficlight lookup added and filled ( data registered )",
   "Maintainer": "Customer",
   "Icon": "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMC45MzkzIDQuOTM5MzlDMTEuNTI1IDQuMzUzNTggMTIuNDc0OCA0LjM1MzUzIDEzLjA2MDYgNC45MzkyOUwyMi4zNTM1IDE0LjIzMTNDMjMuMzI5OCAxNS4yMDc1IDIzLjMyOTkgMTYuNzkwNCAyMi4zNTM2IDE3Ljc2NjhMMTMuMDYwNyAyNy4wNjA2QzEyLjQ3NSAyNy42NDY0IDExLjUyNTIgMjcuNjQ2NSAxMC45Mzk0IDI3LjA2MDdDMTAuMzUzNiAyNi40NzUgMTAuMzUzNSAyNS41MjUyIDEwLjkzOTMgMjQuOTM5NEwxOS44Nzg3IDE1Ljk5OTFMMTAuOTM5NCA3LjA2MDcxQzEwLjM1MzYgNi40NzQ5NSAxMC4zNTM1IDUuNTI1MjEgMTAuOTM5MyA0LjkzOTM5WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
   "IconName": "icon_11.svg",
   "Color": "#00BFA5",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "RequiredPlatformVersion": "8.3.3",
   "MarketplaceLink": "",
   "DependsOn": [],
