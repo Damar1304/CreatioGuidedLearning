@@ -3,14 +3,17 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht" />
+			<Item Name="Columns.Column16.Caption" Value="City" />
 			<Item Name="Columns.Name.Caption" Value="Name" />
 			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
 			<Item Name="Columns.UsrDriveType.Caption" Value="Drive type" />
 			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
 			<Item Name="Columns.UsrNumber.Caption" Value="Number" />
 			<Item Name="Columns.UsrPassangerCount.Caption" Value="PassangerCount" />
 			<Item Name="Columns.UsrPrice.Caption" Value="Price per Day, Euro" />
 			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrTicketPrice.Caption" Value="Ticket price, Eur" />
 		</Items>
 	</Group>
 </Resources>

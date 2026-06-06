@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.20074465-0dea-aec3-88e2-cad6aaf2e96b.Caption" Value="Set values: Ticket price, Eur" />
+			<Item Name="AddonConfig.Rules.24928b4f-ff5b-c2ba-3082-a4dbce494bfd.Caption" Value="Apply filter: City" />
+			<Item Name="AddonConfig.Rules.24ad6bc4-05c4-00aa-102e-09b829a54bde.Caption" Value="ChildRule-24928b4f-ff5b-c2ba-3082-a4dbce494bfd-ClearValue" />
+			<Item Name="AddonConfig.Rules.44aff72a-aa31-89e9-175c-0fd7d9d7cfbc.Caption" Value="ChildRule-24928b4f-ff5b-c2ba-3082-a4dbce494bfd-PopulateValue" />
+			<Item Name="AddonConfig.Rules.8b17b291-39a6-da4d-94f4-cbd07aac756e.Caption" Value="Apply static filter: Manager" />
+			<Item Name="Caption" Value="Yacht (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
